@@ -1,13 +1,10 @@
-Sure! Here's an example of a README file you can use for your project on GitHub:
+# Content Management Site
 
-```markdown
-# Blog Content Management Site
-
-A simple and elegant site for creating and managing your own blog.
+A simple and elegant site for creating and managing your own content.
 
 ## Description
 
-The Blog Content Management Site is a web application that allows users to create and manage their own blog posts. It provides an intuitive interface for creating new posts with titles, content, and optional image and video URLs. Users can also view and manage their existing posts.
+The Content Management Site is a web application that allows users to create and manage their own posts. It provides an intuitive interface for creating new posts with titles, content, and optional image and video URLs. Users can also view and manage their existing posts.
 
 ## Features
 
@@ -63,9 +60,3 @@ This project is licensed under the [MIT License](LICENSE).
 - This project was inspired by the need for a simple and elegant solution for creating and managing blog content.
 - The project uses the Bootstrap CSS framework and Font Awesome icons to enhance the user interface.
 
-## Contact
-
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
-```
-
-Feel free to modify and customize the README file according to your project's specific details and requirements.
